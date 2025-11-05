@@ -67,7 +67,7 @@ To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/aryanraj-itbhu/krishi.git
+git clone https://github.com/Aryan4884/krishi_main_site01.git
 
 # Install dependencies
 npm install
