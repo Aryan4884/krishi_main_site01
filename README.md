@@ -69,9 +69,6 @@ To run this project locally:
 # Clone the repository
 git clone https://github.com/aryanraj-itbhu/krishi.git
 
-# Navigate to project folder
-cd krishi
-
 # Install dependencies
 npm install
 
